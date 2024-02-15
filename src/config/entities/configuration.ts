@@ -188,6 +188,8 @@ export default () => ({
       8453: { nativeCoin: 'ethereum', chainName: 'base' },
       84531: { nativeCoin: 'ethereum', chainName: 'base' },
       84532: { nativeCoin: 'ethereum', chainName: 'base' },
+      9001: { nativeCoin: 'evmos', chainName: 'evmos' },
+      9000: { nativeCoin: 'evmos', chainName: 'evmos' },
     },
   },
   redis: {
