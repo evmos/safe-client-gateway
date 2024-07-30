@@ -132,7 +132,7 @@ export default () => ({
   },
   blockchain: {
     infura: {
-      apiKey: process.env.INFURA_API_KEY,
+      apiKey: process.env.INFURA_API_KEY || '',
     },
   },
   db: {
